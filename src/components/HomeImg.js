@@ -10,7 +10,7 @@ const HomeImg = () => {
             <img className="into-img" src={introImg} alt="Intro"/>
         </div>
         <div className="content">
-            <p>Xin chào tôi là Lập trình viên Front-end</p>
+            <p>Hello. I am a ReactJS developer.</p>
             <h1>ReactJS</h1>
             <div>
                 <Link to="/project" className="btn">Project</Link>

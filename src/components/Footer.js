@@ -30,11 +30,11 @@ const Footer = () => {
             </div>
             <div className="right">
                 <h4>About me</h4>
-                <p>Aduajskhdkajshdkjashdkjahwjkhdakjwdhwjkahdkjawhdawhd</p>
+                <p>My name is Le Hoang Khanh Duy, and I graduated in Software Engineering from the Ho Chi Minh City University of Foreign Languages – Information Technology - HUFLIT.</p>
                 <div className="social">
-                    <FaFacebook size={20} style={{color:"#fff", marginRight:"2rem"}}/>
-                    <FaInstagram size={20} style={{color:"#fff", marginRight:"2rem"}}/>
-                    <FaLinkedinIn size={20} style={{color:"#fff", marginRight:"2rem"}}/>
+                    <FaFacebook size={20} style={{color:"#fff", marginRight:"1rem"}}/>
+                    <FaInstagram size={20} style={{color:"#fff", marginRight:"1rem"}}/>
+                    <FaLinkedinIn size={20} style={{color:"#fff", marginRight:"1rem"}}/>
                 </div>
             </div>
         </div>

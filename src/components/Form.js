@@ -5,6 +5,7 @@ import React from 'react'
 const Form = () => {
   return (
     <div className="form">
+        <h1>Send me anything you want</h1>
         <form>
             <label>Your name</label>
             <input type="text"></input>

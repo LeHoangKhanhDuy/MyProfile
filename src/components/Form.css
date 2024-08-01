@@ -17,3 +17,7 @@ form input, form textarea{
     border-color: rgba(255, 255, 255, 0.1);
     color: #f4f4f4;
 }
+.form h1{
+    text-align: center;
+    padding-top: 2rem;
+}

@@ -1,6 +1,7 @@
 .project-heading{
     text-align: center;
     padding: 4rem 0 2rem 0;
+    color: #000;
 }
 
 .project-container{
@@ -12,14 +13,16 @@
     padding-bottom: 5rem;
 }
 .project-card{
-    background: #1a1919;
+    background: #FFFFFF;
     padding: 1.2rem 1rem;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .project-card img{
     width: 100%;
 }
 .project-title{
-    color: #fff;
+    color: #000;
     padding: 1rem 0;
 }
 .project-details{
@@ -27,14 +30,19 @@
     font-size: 1.1rem;
     text-align: justify;
 }
+.project-details p{
+    color: #000;
+}
 .pro-btn{
     display: flex;
     justify-content: space-between;
     padding: 0.5rem 0;
+    padding-top: 20px;
 }
 .pro-btn .btn{
     padding: 0.5rem 1rem;
 }
+
 
 
 @media screen and (max-width: 740px) {

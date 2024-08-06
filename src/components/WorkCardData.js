@@ -10,31 +10,31 @@ const ProjectCardData = [
     {
         imgsrc: myprofile,
         title: "Portfolio Website",
-        text: "Portfolio Website giới thiệu bản thân sử dụng ReactJS",
+        text: "Portfolio Website introducing yourself using ReactJS.",
         view: "https://github.com/LeHoangKhanhDuy/MyProfile"
     },
     {
         imgsrc: shopee,
         title: "Shopee Clone",
-        text: "Dự án clone shopee sử dụng công nghệ ASP.NET Core MVC",
+        text: "Shopee clone project using ASP.NET Core MVC.",
         view: "https://github.com/tranviendai/Shopbee"
     },
     {
         imgsrc: flutter,
         title: "SG Shoes App Flutter",
-        text: "Ứng dụng bán giày thể thao sử dụng Flutter",
+        text: "Sport shoes selling app using Flutter.",
         view: "https://github.com/LeHoangKhanhDuy/SG_SHOES_Firebase"
     },
     {
         imgsrc: salephone,
         title: "Sale Phone Website",
-        text: "Website bán điện thoại sử dụng ASP.NET",
+        text: "Phone selling website using ASP.NET.",
         view: "https://github.com/maitrithanh/CNPMNC"
     },
     {
         imgsrc: tea,
         title: "Infinitea",
-        text: "Ứng dụng bán trà sữa sử dụng Java",
+        text: "Milktea selling app using Java.",
         view: "https://github.com/maitrithanh/infinitea"
     },
 ];

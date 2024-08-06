@@ -17,7 +17,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #000;
+    /* background-color: #000; */
     opacity: 0.8;
 }
 .homeimg{
@@ -36,11 +36,14 @@
 .homeimg .content h1{
     font-size: 4rem;
     padding: 0.6rem 0 1.5rem;
+    color: #000;
 }
 .homeimg .content p{
     font-size:  1.4rem;
     font-weight: 200;
     text-transform: uppercase;
+
+    color: #000;
 }
 
 .content .btn{

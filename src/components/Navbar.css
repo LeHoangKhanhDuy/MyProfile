@@ -7,6 +7,7 @@
     width: 100%;
     height: 90px;
     z-index: 10;
+    background-color: #2794EB;
 }
 
 .header-bg{
@@ -23,6 +24,7 @@
 .nav-menu li a{
     font-size: 1.2rem;
     font-weight: 500;
+    color: #fff;
 }
 
 .hamburger{
